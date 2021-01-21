@@ -1,0 +1,7 @@
+C:\Users\luisg\Desktop\Server\bin\Debug\Server.exe.config
+C:\Users\luisg\Desktop\Server\bin\Debug\Server.exe
+C:\Users\luisg\Desktop\Server\bin\Debug\Server.pdb
+C:\Users\luisg\Desktop\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\luisg\Desktop\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\Server\obj\Debug\Server.exe
+C:\Users\luisg\Desktop\Server\obj\Debug\Server.pdb
